@@ -1,5 +1,5 @@
 backend:
-  name: git-hub
+  name: github
   repo: striglone/middleman-starter-netlify-cms
 
 media_folder: source/images/uploads
